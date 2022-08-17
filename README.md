@@ -1,2 +1,1 @@
-![Pavel's GitHub stats](https://github-readme-stats.vercel.app/api?username=pavelpoley&include_all_commits=true&count_private=true)
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pavelpoley)](https://git.io/streak-stats)
